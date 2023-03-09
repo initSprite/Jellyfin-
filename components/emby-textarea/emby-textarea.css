@@ -1,0 +1,5 @@
+/*Set the font family and size for text areas.*/
+.emby-textarea {
+    font-family: Inter, sans-serif;
+    font-size: 14px;
+}
